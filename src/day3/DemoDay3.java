@@ -7,4 +7,9 @@ public class DemoDay3 {
 		System.out.println("Day 3 Team 3");
 		
 	}
+	
+	
+	public static void add(int a, int b) {
+		System.out.println(a+b);
+	}
 }
