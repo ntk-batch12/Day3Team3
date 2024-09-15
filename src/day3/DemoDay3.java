@@ -48,6 +48,10 @@ public class DemoDay3 {
 	public static void conflictMustafa() {
 		System.out.println("M");
 	}
+	
+	public static void testConflict2() {
+		System.out.println("M");
+	}
 
 
 }
