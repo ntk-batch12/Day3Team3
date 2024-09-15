@@ -34,4 +34,7 @@ public class DemoDay3 {
 		public static void subtract (int b, int c) {
 		System.out.println(b-c);
 	}
+		public static void testTeam3() {
+			System.out.println("Team 3.. we are very good");
+		}
 }
