@@ -44,4 +44,8 @@ public class DemoDay3 {
 			System.out.println("m");
 			
 		}
+		
+		public static void maysa3() {
+			System.out.println("I want to sleep");
+		}
 }
