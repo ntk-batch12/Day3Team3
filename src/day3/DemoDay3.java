@@ -49,6 +49,10 @@ public class DemoDay3 {
 	System.out.println("m");
 
 	}
+public static void testConflict(){
+	System.out.println("m");
+
+}
 
 
 }
