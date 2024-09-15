@@ -40,4 +40,8 @@ public class DemoDay3 {
 		public static void maysa() {
 			System.out.println("team 3");
 		}
+		public static void maysa2() {
+			System.out.println("m");
+			
+		}
 }
