@@ -8,7 +8,10 @@ public class DemoDay3 {
 
 		int a=10;
 		int b=20;
-
+		if (a == b) {
+			System.out.println("=");
+		}
+			
 	}
 
 	public static void add(int a, int b) {
