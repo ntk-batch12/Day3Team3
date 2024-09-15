@@ -37,4 +37,8 @@ public class DemoDay3 {
 		public static void testTeam3() {
 			System.out.println("Team 3.. we are very good");
 		}
+		
+		public void tryError() {
+			System.out.println("This is a test");
+		}
 }
