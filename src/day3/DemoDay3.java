@@ -25,4 +25,10 @@ public class DemoDay3 {
 	public static void practice () {
 		System.out.println("Practice3");
 	}
+	public static void tom (int a, int b) {
+		System.out.println(a+b);
+	}
+	public static void multiply(int a, int b) {
+		System.out.println(a*b);
+	}
 }
