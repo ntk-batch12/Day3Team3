@@ -37,6 +37,7 @@ public class DemoDay3 {
 		public static void testTeam3() {
 			System.out.println("Team 3.. we are very good");
 		}
+
 		public static void maysa() {
 			System.out.println("team 3");
 		}
@@ -44,8 +45,18 @@ public class DemoDay3 {
 			System.out.println("m");
 			
 		}
-		
-		public static void maysa3() {
-			System.out.println("I want to sleep");
-		}
+
+	public static void newMethodTest(){
+	System.out.println("m");
+
+	}
+    public static void testConflict(){
+	System.out.println("m");
+
+}
+    public static void maysa3() {
+    	System.out.println("aaa");
+    	
+    }
+
 }
