@@ -44,4 +44,9 @@ public class DemoDay3 {
 			System.out.println("m");
 			
 		}
+	public static void newMethodTest(){
+	System.out.println("m");
+
+	}
+
 }
