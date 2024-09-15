@@ -22,4 +22,7 @@ public class DemoDay3 {
 		System.out.println("test");
 	}
 	
+	public static void practice () {
+		System.out.println("Practice3");
+	}
 }
