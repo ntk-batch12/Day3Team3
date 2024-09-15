@@ -5,10 +5,10 @@ public class DemoDay3 {
 	public static void main(String[] args) {
 
 		System.out.println("Day 3 Team 3");
-		String firstName = "John";
-		int count = 20;
-		
-				
+
+		int a=10;
+		int b=20;
+
 	}
 
 	public static void add(int a, int b) {
