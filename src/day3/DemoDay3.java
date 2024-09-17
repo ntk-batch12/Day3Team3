@@ -65,6 +65,9 @@ public class DemoDay3 {
 	public static void testConflict2() {
 		System.out.println("M");
 	}
+	public void testNew(){
+		System.out.println("New Test");
+	}
 
 
 }
