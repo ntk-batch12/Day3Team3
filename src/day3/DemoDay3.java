@@ -57,5 +57,9 @@ public class DemoDay3 {
 	public void newTest() {
 
 	}
+	
+	public void newNew() {
+		
+	}
 
 }
